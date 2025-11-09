@@ -32,4 +32,4 @@ Outside research, I enjoy running, playing volleyball, hiking, and spending time
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->

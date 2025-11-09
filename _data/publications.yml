@@ -6,6 +6,7 @@ main:
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2510.11112
     code: https://github.com/Chenliu-svg/DiPro
+    slides: https://github.com/Chenliu-svg/DiPro/blob/master/figures/DiPro_slides.pdf
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/DiPro_poster.png
     notes: Spotlight(~3%)
@@ -16,6 +17,7 @@ main:
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2410.17918
     code: https://github.com/Chenliu-svg/DDL-CXR
+    slides: https://neurips.cc/media/neurips-2024/Slides/93285.pdf
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
@@ -24,7 +26,7 @@ main:
   - title: "Scaling Tumor Segmentation: Best Lessons from Real and Synthetic Data"
     authors: Qi Chen, Xinze Zhou, <strong>Chen Liu</strong>, Hao Chen, Wenxuan Li, Zekun Jiang, Ziyan Huang, Yuxuan Zhao, Dexin Yu, Junjun He, Yefeng Zheng, Ling Shao, Alan Yuill, Zongwei Zhou
     conference_short: ICCV
-    conference: IEEE InternationalConference on Computer Vision <strong>(NeurIPS)</strong>, 2025.
+    conference: IEEE InternationalConference on Computer Vision <strong>(ICCV)</strong>, 2025.
     pdf: https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Scaling_Tumor_Segmentation_Best_Lessons_from_Real_and_Synthetic_Data_ICCV_2025_paper.pdf
     code: ttps://github.com/BodyMaps/AndomenAtlas2.0
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
