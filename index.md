@@ -2,13 +2,13 @@
 layout: homepage
 ---
 
-## About Me
+## 👋 About Me
 
 I am a first-year Ph.D at the Hong Kong Polytechnic University, supervised by [Prof. Harry Qin](https://www.polyu.edu.hk/sn/people/academic-staff/prof-harry-qin/?sc_lang=tc) on multi-modal learning for healthcare applications. I earned my B.Eng. in Software Engineering from the [South China University of Technology](https://www.scut.edu.cn/).
 
 Outside research, I enjoy running, playing volleyball, hiking, and spending time outdoors with friends.
 
-## Research Interests
+## 🎨 Research Interests
 
 - **Multi-modal Learning:** longitudinal multimodal modeling, multimodal generation
 - **AI for Healthcare:** medical image analysis, disease progression modeling
